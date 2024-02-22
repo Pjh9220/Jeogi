@@ -1,14 +1,12 @@
-My Final Kepco Project
+# My Final Kepco Project
 
-#Jeogi project
-
-######################################
+## Jeogi project
 
 2024-01-26 ~ 2024-02-20 Project
 
-subject : 
+#### subject : 
 
-      Showing the results of measuring congestion and tourist information on a map
+> Showing the results of measuring congestion and tourist information on a map
 
 React, SpringBoot , TensorFlow
 
