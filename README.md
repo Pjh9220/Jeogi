@@ -11,5 +11,3 @@
 React, SpringBoot , TensorFlow
 
 author : PJH and my team members
-
-######################################
